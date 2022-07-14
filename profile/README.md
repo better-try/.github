@@ -30,6 +30,9 @@
 
 
 <p align="">
+    <a href="https://t.me/try_better_app" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-TryBetterApp-%232CA5E0?logo=telegram" alt="Telegram">
+    </a> 
     <a href="https://discord.com/invite/MnDA9pfWAW" target="_blank">
       <img src="https://img.shields.io/badge/Discord-GossipCoder-%237289DA.svg?logo=iscord&logoColor=white" alt="Discord">
     </a> 
@@ -38,6 +41,7 @@
     </a> 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=better-dart" alt="10000" />
 </p>
+
 
 
 
