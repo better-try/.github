@@ -1,5 +1,23 @@
 
 
+## Quotes ✨
+
+
+```ruby
+
+
+Simple is Best.
+
+Make the World a Better Place.
+
+Keep Trying Until You Succeed.
+
+
+```
+
+
+
+
 ## Related 🍄
 
 - 😄 欢迎也使用我的其他语言的项目.
