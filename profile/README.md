@@ -25,15 +25,12 @@
 
 
 
-## Download ⏬
-
-- ✅ https://github.com/better-try/dl
-
 
 ## Quotes ✨
 
 
 ```ruby
+Make It Work, Make It Right, Make It Fast.
 
 Simple is Best.
 
@@ -44,5 +41,10 @@ Try and Try Until You Succeed.
 ```
 
 - ✅ [Music](https://youtu.be/VOVkzL0ga2w)
+- ✅ [Make It Work, Make It Right, Make It Fast.](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
 
+
+## Download ⏬
+
+- ✅ https://github.com/better-try/dl
 
